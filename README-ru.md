@@ -7,7 +7,7 @@ English version will be a bit later.
 - VestaCP 0.9.8 
 Хочется, чтобы при добавлении домена через веб-морду VestaCP автоматически создавался пул PHP-FPM.
 
-TODO: Реализовать удаление пула из конфига при удалении домена. ![smile](http://wiki.local.solnce.ru/twiki/pub/TWiki/SmiliesPlugin/smile.gif) "smile"
+TODO: Реализовать удаление пула из конфига при удалении домена.
 
 ### For nginx
 
